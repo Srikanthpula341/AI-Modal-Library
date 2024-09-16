@@ -1,4 +1,11 @@
-# freeAiModals
+# Exploring AI
+
+## Title Suggestions
+1. **freeAiModals: A Curated Collection of Open-Source AI Tools**
+2. **Exploring AI: The Ultimate Open-Source Repository Collection**
+3. **AI Resources Hub: Free and Open-Source AI Projects**
+4. **Unlock AI: Open-Source Tools for Developers and Enthusiasts**
+5. **AI Modal Library: Your Guide to Free Open-Source AI Solutions**
 This is a collection of various repositories related to open source AI projects and topics. Each repository focuses on a specific area, such as language models, security, or deepfake technology. Feel free to explore these repositories and find the ones that interest you the most.
 
 ## General
