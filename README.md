@@ -1,7 +1,7 @@
 # Exploring AI
 
 ## Title Suggestions
-1. **freeAiModals: A Curated Collection of Open-Source AI Tools**
+1. **AI-Modal-Library: A Curated Collection of Open-Source AI Tools**
 2. **Exploring AI: The Ultimate Open-Source Repository Collection**
 3. **AI Resources Hub: Free and Open-Source AI Projects**
 4. **Unlock AI: Open-Source Tools for Developers and Enthusiasts**
